@@ -1,0 +1,92 @@
+Variables
+=========
+
+Reshaped_Data_Set
+- (ID)Activity_id : Activity being undertaken by the subject while measurements are taken
+- (ID)Subject_id : Subject who is wearing the Samsung device whose measurements are being taken
+Measurements :
+- Time Body Acceleration-mean()-X
+- Time Body Acceleration-mean()-Y
+- Time Body Acceleration-mean()-Z	
+- Time Body Acceleration-std()-X	
+- Time Body Acceleration-std()-Y	
+- Time Body Acceleration-std()-Z	
+- Time Gravity Acceleration-mean()-X	
+- Time Gravity Acceleration-mean()-Y	
+- Time Gravity Acceleration-mean()-Z	
+- Time Gravity Acceleration-std()-X	
+- Time Gravity Acceleration-std()-Y	
+- Time Gravity Acceleration-std()-Z	
+- Time Body Acceleration Jerk-mean()-X	
+- Time Body Acceleration Jerk-mean()-Y	
+- Time Body Acceleration Jerk-mean()-Z	
+- Time Body Acceleration Jerk-std()-X	
+- Time Body Acceleration Jerk-std()-Y	
+- Time Body Acceleration Jerk-std()-Z	
+- Time Body Gyro-mean()-X	
+- Time Body Gyro-mean()-Y	
+- Time Body Gyro-mean()-Z	
+- Time Body Gyro-std()-X	
+- Time Body Gyro-std()-Y	
+- Time Body Gyro-std()-Z	
+- Time Body Gyro Jerk-mean()-X	
+- Time Body Gyro Jerk-mean()-Y	
+- Time Body Gyro Jerk-mean()-Z	
+- Time Body Gyro Jerk-std()-X	
+- Time Body Gyro Jerk-std()-Y	
+- Time Body Gyro Jerk-std()-Z	
+- Time Body Acceleration Magnitude-mean()	
+- Time Body Acceleration Magnitude-std()	
+- Time Gravity Acceleration Magnitude-mean()	
+- Time Gravity Acceleration Magnitude-std()	
+- Time Body Acceleration JerkMag-mean()	
+- Time Body Acceleration JerkMag-std()	
+- Time Body Gyro Magnitude-mean()	
+- Time Body Gyro Magnitude-std()	
+- Time Body Gyro JerkMag-mean()	
+- Time Body Gyro JerkMag-std()	
+- FFT Body Acceleration-mean()-X	
+- FFT Body Acceleration-mean()-Y	
+- FFT Body Acceleration-mean()-Z	
+- FFT Body Acceleration-std()-X	
+- FFT Body Acceleration-std()-Y	
+- FFT Body Acceleration-std()-Z	
+- FFT Body Acceleration-meanFreq()-X	
+- FFT Body Acceleration-meanFreq()-Y	
+- FFT Body Acceleration-meanFreq()-Z	
+- FFT Body Acceleration Jerk-mean()-X	
+- FFT Body Acceleration Jerk-mean()-Y	
+- FFT Body Acceleration Jerk-mean()-Z	
+- FFT Body Acceleration Jerk-std()-X	
+- FFT Body Acceleration Jerk-std()-Y	
+- FFT Body Acceleration Jerk-std()-Z	
+- FFT Body Acceleration Jerk-meanFreq()-X	
+- FFT Body Acceleration Jerk-meanFreq()-Y	
+- FFT Body Acceleration Jerk-meanFreq()-Z	
+- FFT Body Gyro-mean()-X	
+- FFT Body Gyro-mean()-Y	
+- FFT Body Gyro-mean()-Z	
+- FFT Body Gyro-std()-X	
+- FFT Body Gyro-std()-Y	
+- FFT Body Gyro-std()-Z	
+- FFT Body Gyro-meanFreq()-X	
+- FFT Body Gyro-meanFreq()-Y	
+- FFT Body Gyro-meanFreq()-Z	
+- FFT Body Acceleration Magnitude-mean()	
+- FFT Body Acceleration Magnitude-std()	
+- FFT Body Acceleration Magnitude-meanFreq()	
+- FFT Body Body Acceleration Jerk Magnitude-mean()	
+- FFT Body Body Acceleration Jerk Magnitude-std()	
+- FFT Body Body Acceleration Jerk Magnitude-meanFreq()	
+- FFT Body Body Gyro Magnitude-mean()	
+- FFT Body Body Gyro Magnitude-std()	
+- FFT Body Body Gyro Magnitude-meanFreq()	
+- FFT Body Body Gyro Jerk Magnitude-mean()	
+- FFT Body Body Gyro Jerk Magnitude-std()	
+- FFT Body Body Gyro Jerk Magnitude-meanFreq()
+
+
+2.Summary
+- All the measurements are the means for each grouping of subject_id and activity_id
+
+
