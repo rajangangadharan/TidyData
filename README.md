@@ -1,6 +1,11 @@
 # TidyData
 
-This R script does the following
+1. Refer to Codebook.txt for the Study Design, the dataset description and instructions 
+to run the script.
+
+2. Refer to below for the R script 
+
+The R script does the following
 
 1. Reads the Activity labels and Feature Labels into 2 data frames activity_labels 
 and feature_labels
